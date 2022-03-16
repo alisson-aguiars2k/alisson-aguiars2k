@@ -5,7 +5,6 @@
 <br>
 
 ## Tecnologias que estou estudando  💻📚💙
-
 <div style="display: inline_block"><br>
     <img  align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img  align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -21,13 +20,23 @@
     </a>
 </div><br>
 
-## Últimos projetos desenvolvidos  🧑‍💻 
+## Meu Portifólio  🧑‍💻 
 
-- [Project Grid - HTML | CSS Grid Layout]()
-- [Project Grid - HTML | CSS Grid Layout](https://github.com/alisson-aguiars2k/alisson-aguiars2k/tree/master/project_grid)
-- [Landing page North Cycle - HTML | CSS Flexible Box Layout]()
+- [My Portfolio - HTML | CSS Grid Layout | CSS Flexible Box Layout](https://alisson-aguiars2k.github.io/project_portfolio/)
 
-- [Project Sign (In and Up) - HTML | CSS Flexible Box Layout]()
+<br>
+
+## Últimos projetos desenvolvidos 
+
+- [Project Tourism in Portugal - HTML | CSS Grid Layout](https://alisson-aguiars2k.github.io/landing_page_tourism_in_portugal/)
+
+- [Landing page Living Room - HTML | CSS Grid Layout](https://alisson-aguiars2k.github.io/landing_page_living_room/)
+
+- [Landing page North Cycle - HTML | CSS Flexible Box Layout](https://alisson-aguiars2k.github.io/landing_page_north_cycle/)
+
+- [Project Sign (In and Up) - HTML | CSS Flexible Box Layout](https://alisson-aguiars2k.github.io/project_sign_in_and_up/)
+
+- [Landing Page Apple Store - HTML | CSS Flexible Box Layout](https://alisson-aguiars2k.github.io/landing_page_apple_store/)
 
 <br>
 
