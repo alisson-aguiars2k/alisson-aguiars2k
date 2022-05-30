@@ -1,14 +1,15 @@
-## Olá! eu sou Alisson Aguiar  👋
+## Olá! Prazer, Alisson Aguiar! 
 
-## Sou estudante de Programação Web(Full stack), apaixonado por tecnologia e seus desafios. Estou a procura da minha primeira oportunidade no mercado de trabalho para contribuir e continuar evoluindo na minha jornada.  ✌️
+## Sou estudante de Programação Web (Frontend), apaixonado por tecnologia e seus desafios. Estou a procura da minha primeira oportunidade no mercado de trabalho para contribuir e continuar evoluindo na minha jornada.  ✌️
 
 <br>
 
 ## Tecnologias que estou estudando  💻📚💙
 <div style="display: inline_block"><br>
-    <img  align="center" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-    <img  align="center" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-    <img  align="center" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" heigth="30" width="40"alt="HTML5">
+    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" heigth="30" width="40"alt="CSS3">
+    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="React">
+    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" heigth="30" width="40"alt="React">
 </div>
 
 <br>
@@ -20,23 +21,22 @@
     </a>
 </div><br>
 
-## Meu Portifólio  🧑‍💻 
+## Meu Portifólio  👨‍🦱 💻
 
-- [My Portfolio - HTML | CSS Grid Layout | CSS Flexible Box Layout](https://alisson-aguiars2k.github.io/project_portfolio/)
+- [My Portfolio - Javascript Vanilla | React JS soon](https://alisson-aguiars2k.github.io/project_portfolio/)
 
 <br>
 
 ## Últimos projetos desenvolvidos 
 
-- [Project Tourism in Portugal - HTML | CSS Grid Layout](https://alisson-aguiars2k.github.io/landing_page_tourism_in_portugal/)
+- [Project comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
 
-- [Landing page Living Room - HTML | CSS Grid Layout](https://alisson-aguiars2k.github.io/landing_page_living_room/)
+- [Project wikepidia - Javascript Vanilla](https://alisson-aguiars2k.github.io/wikipedia/)
 
-- [Landing page North Cycle - HTML | CSS Flexible Box Layout](https://alisson-aguiars2k.github.io/landing_page_north_cycle/)
+- [Project dark mode - Javascript Vanilla](https://alisson-aguiars2k.github.io/dark-mode/)
 
-- [Project Sign (In and Up) - HTML | CSS Flexible Box Layout](https://alisson-aguiars2k.github.io/project_sign_in_and_up/)
+- [Project filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
 
-- [Landing Page Apple Store - HTML | CSS Flexible Box Layout](https://alisson-aguiars2k.github.io/landing_page_apple_store/)
 
 <br>
 
