@@ -1,10 +1,11 @@
-## Olá! Prazer, Alisson Aguiar! 
+## Olá! Prazer, Alisson Aguiar!
 
-## Sou estudante de Programação Web (Frontend), apaixonado por tecnologia e seus desafios. Estou a procura da minha primeira oportunidade no mercado de trabalho para contribuir e continuar evoluindo na minha jornada.  ✌️
+## Sou estudante de Programação Web (Frontend), apaixonado por tecnologia e seus desafios. Estou a procura da minha primeira oportunidade no mercado de trabalho para contribuir e continuar evoluindo na minha jornada. ✌️
 
 <br>
 
-## Tecnologias que estou estudando  💻📚💙
+## Tecnologias que estou estudando 💻📚💙
+
 <div style="display: inline_block"><br>
     <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" heigth="30" width="40"alt="HTML5">
     <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" heigth="30" width="40"alt="CSS3">
@@ -21,13 +22,13 @@
     </a>
 </div><br>
 
-## Meu Portifólio  👨‍🦱 💻
+## Meu Portifólio 👨‍🦱 💻
 
 - [My Portfolio - Javascript Vanilla | React JS soon](https://alisson-aguiars2k.github.io/project_portfolio/)
 
 <br>
 
-## Últimos projetos desenvolvidos 
+## Últimos projetos desenvolvidos
 
 - [Project comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
 
@@ -37,10 +38,10 @@
 
 - [Project filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
 
-
 <br>
 
 ## Minhas redes sociais 🔗
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-aguiars2k/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alisson_aguiars2k/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/alisson.rocha.7127)
