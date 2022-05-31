@@ -28,7 +28,7 @@
 
 <br>
 
-## Últimos projetos desenvolvidos
+## Últimos projetos desenvolvidos com Javascript Vanilla ;
 
 - [Project comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
 
@@ -37,6 +37,12 @@
 - [Project dark mode - Javascript Vanilla](https://alisson-aguiars2k.github.io/dark-mode/)
 
 - [Project filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
+
+<br>
+
+## Últimos projetos desenvolvidos com React-JS ;
+
+- [Project birthday reminder - React-JS](https://alisson-aguiars2k.github.io/birthday-reminder/)
 
 <br>
 
