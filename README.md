@@ -40,12 +40,6 @@
 
 <br>
 
-## Últimos projetos desenvolvidos com React-JS ;
-
-- [Project birthday reminder - React-JS](https://alisson-aguiars2k.github.io/birthday-reminder/)
-
-<br>
-
 ## Minhas redes sociais 🔗
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-aguiars2k/)
