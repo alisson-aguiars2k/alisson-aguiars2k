@@ -9,7 +9,7 @@
 <div style="display: inline_block"><br>
     <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" heigth="30" width="40"alt="HTML5">
     <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" heigth="30" width="40"alt="CSS3">
-    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="React">
+    <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
     <img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" heigth="30" width="40"alt="React">
 </div>
 
@@ -22,21 +22,51 @@
     </a>
 </div><br>
 
-## Meu Portifólio 👨‍🦱 💻
+## Meu Portifólio  👨‍🦱 💻
 
 - [My Portfolio - Javascript Vanilla | React JS soon](https://alisson-aguiars2k.github.io/project_portfolio/)
 
 <br>
 
+
+## Últimos projetos desenvolvidos com React-JS ;
+
+<br>
+
+<div>
+<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" heigth="30" width="40"alt="React">
+</div>
+
+<br>
+
+### Hooks (useEffect and Conditional Rendering)
+
+- [Project Tours - Rect-JS](https://alisson-aguiars2k.github.io/tours/)
+
+- [Project Slider - Rect-JS](https://alisson-aguiars2k.github.io/slider/)
+
+- [Project Menu - Rect-JS](https://alisson-aguiars2k.github.io/menu/)
+
+- [Project Tabs - Rect-JS](https://alisson-aguiars2k.github.io/tabs/)
+
+
+<br> 
+
 ## Últimos projetos desenvolvidos com Javascript Vanilla ;
 
-- [Project comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
+<br>
 
-- [Project wikepidia - Javascript Vanilla](https://alisson-aguiars2k.github.io/wikipedia/)
+<div><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript"></div>
 
-- [Project dark mode - Javascript Vanilla](https://alisson-aguiars2k.github.io/dark-mode/)
+<br>
 
-- [Project filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
+- [Project Comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
+
+- [Project Wikepidia - Javascript Vanilla](https://alisson-aguiars2k.github.io/wikipedia/)
+
+- [Project Dark mode - Javascript Vanilla](https://alisson-aguiars2k.github.io/dark-mode/)
+
+- [Project Filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
 
 <br>
 
