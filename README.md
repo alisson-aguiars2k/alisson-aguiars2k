@@ -68,8 +68,6 @@
 <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
 </div>
 
-<br>
-
 - [Project Tours - Rect-JS](https://alisson-aguiars2k.github.io/tours/)
 
 - [Project Slider - Rect-JS](https://alisson-aguiars2k.github.io/slider/)
@@ -78,11 +76,10 @@
 
 - [Project Tabs - Rect-JS](https://alisson-aguiars2k.github.io/tabs/)
 
-
+<br>
 
 <div><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript"></div>
 
-<br>
 
 - [Project Comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
 
@@ -91,6 +88,3 @@
 - [Project Dark mode - Javascript Vanilla](https://alisson-aguiars2k.github.io/dark-mode/)
 
 - [Project Filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
-
-<br>
-
