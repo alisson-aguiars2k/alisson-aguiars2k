@@ -70,8 +70,6 @@
 
 <br>
 
-### Hooks (useEffect and Conditional Rendering)
-
 - [Project Tours - Rect-JS](https://alisson-aguiars2k.github.io/tours/)
 
 - [Project Slider - Rect-JS](https://alisson-aguiars2k.github.io/slider/)
