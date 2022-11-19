@@ -2,11 +2,10 @@
 
 ## Sou estudante de Desenvolvimento Web, apaixonado por tecnologia e seus desafios. Estou a procura da minha primeira oportunidade no mercado de trabalho para contribuir e continuar evoluindo na minha jornada. 🚀🛰️🪐
 <br>
-<hr>
+
 
 ## Minhas redes sociais 🔗
 
-<hr>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alisson-aguiars2k/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alisson_aguiars2k/)
@@ -14,20 +13,20 @@
 
 <br>
 
-<hr>
+
 
 ## 📚 Meu Portifólio  📚
 
-<hr>
+
 
 ☑️ [Projetos pessoais desenvolvidos](https://alisson-aguiars2k.github.io/project_portfolio/)
 
 <br>
-<hr>
+
 
 ## Tecnologias que estou estudando 💻📚💙🧡
 
-<hr>
+
 
 <div style="display: inline_block, padding: 10px " ><br>
 
@@ -58,11 +57,11 @@
 </div>
 
 <br>
-<hr>
+
 
 ## Últimos projetos desenvolvidos ;
 
-<hr>
+
 <br>
 
 <div>
@@ -81,7 +80,7 @@
 
 - [Project Tabs - Rect-JS](https://alisson-aguiars2k.github.io/tabs/)
 
-<hr>
+
 
 <div><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript"></div>
 
@@ -96,3 +95,4 @@
 - [Project Filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
 
 <br>
+
