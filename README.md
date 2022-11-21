@@ -1,4 +1,4 @@
-## Olá! Prazer, Alisson Aguiar! 🤙 🧑‍💻
+# Olá! Prazer, Alisson Aguiar! 🤙 🧑‍💻
 
 ## Sou estudante de Desenvolvimento Web, apaixonado por tecnologia e seus desafios. Estou a procura da minha primeira oportunidade no mercado de trabalho para contribuir e continuar evoluindo na minha jornada. 🚀🛰️🪐
 <br>
@@ -19,7 +19,7 @@
 
 
 
-☑️ [Projetos pessoais desenvolvidos](https://alisson-aguiars2k.github.io/project_portfolio/)
+## ☑️ [Projetos pessoais desenvolvidos](https://alisson-aguiars2k.github.io/project_portfolio/) 🔗
 
 <br>
 
@@ -65,6 +65,7 @@
 <br>
 
 <div>
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" heigth="30" width="40"alt="Typescript">
 <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
 </div>
 
@@ -78,7 +79,9 @@
 
 <br>
 
-<div><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript"></div>
+<div><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
+</div>
 
 
 - [Project Comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
@@ -88,3 +91,16 @@
 - [Project Dark mode - Javascript Vanilla](https://alisson-aguiars2k.github.io/dark-mode/)
 
 - [Project Filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
+
+
+<br>
+
+<div><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" heigth="30" width="40"alt="html5">
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" heigth="30" width="40"alt="css3">
+<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
+</div>
+
+<br>
+
+- [Project Comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
+
