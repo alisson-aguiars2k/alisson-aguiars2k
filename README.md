@@ -13,15 +13,44 @@
 
 <br>
 
-
-
-## 📚 Meu Portifólio  📚
-
-
-
-## ☑️ [Projetos pessoais desenvolvidos](https://alisson-aguiars2k.github.io/project_portfolio/) 🔗
+## 🧑‍ 💻📚  [Meu Portifólio](https://alisson-aguiars2k.github.io/project_portfolio/)  🔗
 
 <br>
+
+## Últimos projetos desenvolvidos ;
+
+
+<br>
+
+<div>
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" heigth="30" width="40"alt="Typescript">
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
+</div>
+
+<br>
+
+☑️ - [Test Registration - TypeScript || Rect-JS](https://react-js-test-registration.netlify.app/) 🔗
+
+<br>
+
+<div><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
+</div>
+
+<br>
+
+☑️ - [Project Comfy Sloth - JavaScript || React-js](https://react-js-comfy-sloth.netlify.app/) 🔗
+
+<br>
+
+<div><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" heigth="30" width="40"alt="html5">
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" heigth="30" width="40"alt="css3">
+<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
+</div>
+
+<br>
+
+ ☑️ - [Project Comfy Store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/) 🔗
 
 
 ## Tecnologias que estou estudando 💻📚💙🧡
@@ -56,51 +85,4 @@
     </a>
 </div>
 
-<br>
-
-
-## Últimos projetos desenvolvidos ;
-
-
-<br>
-
-<div>
-<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" heigth="30" width="40"alt="Typescript">
-<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
-</div>
-
-- [Project Tours - Rect-JS](https://alisson-aguiars2k.github.io/tours/)
-
-- [Project Slider - Rect-JS](https://alisson-aguiars2k.github.io/slider/)
-
-- [Project Menu - Rect-JS](https://alisson-aguiars2k.github.io/menu/)
-
-- [Project Tabs - Rect-JS](https://alisson-aguiars2k.github.io/tabs/)
-
-<br>
-
-<div><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
-<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
-</div>
-
-
-- [Project Comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
-
-- [Project Wikepidia - Javascript Vanilla](https://alisson-aguiars2k.github.io/wikipedia/)
-
-- [Project Dark mode - Javascript Vanilla](https://alisson-aguiars2k.github.io/dark-mode/)
-
-- [Project Filters - Javascript Vanilla](https://alisson-aguiars2k.github.io/filters/)
-
-
-<br>
-
-<div><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" heigth="30" width="40"alt="html5">
-<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" heigth="30" width="40"alt="css3">
-<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
-</div>
-
-<br>
-
-- [Project Comfy store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/)
 
