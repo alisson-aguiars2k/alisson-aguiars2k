@@ -13,7 +13,7 @@
 
 <br>
 
-## 🧑‍ 💻📚  [Meu Portifólio](https://alisson-aguiars2k.github.io/project_portfolio/)  🔗
+## 🧑‍ 💻📚  [Meu Portifólio](https://portifolio-alisson-aguiar.netlify.app/)  🔗
 
 <br>
 
