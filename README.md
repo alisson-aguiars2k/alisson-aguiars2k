@@ -65,6 +65,7 @@
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="30" width="40"alt="Javascript">
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth="30" width="40"alt="Javascript">
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" heigth="30" width="40"alt="Node-js">
+ <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth="30" width="40"alt="C">
     
 </div>
 <div style="display: inline_block"><br>
