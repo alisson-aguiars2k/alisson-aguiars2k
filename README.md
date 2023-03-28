@@ -1,4 +1,4 @@
-# Olá! Prazer, Alisson Aguiar! 🤙 🧑‍💻
+# Olá! Prazer, Alisson Aguiar! 🤙
 
 ## Sou estudante de Engenharia de Software e Desenvolvedor Web, apaixonado por tecnologia e seus desafios. Estou a procura da minha primeira oportunidade no mercado de trabalho para contribuir e continuar evoluindo na minha jornada. 🚀🛰️🪐
 <br>
