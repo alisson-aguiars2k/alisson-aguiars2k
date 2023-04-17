@@ -52,10 +52,9 @@
 
  ☑️ - [Project Comfy Store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/) 🔗
 
+<br>
 
 ## Tecnologias que estou estudando 💻📚💙🧡
-
-
 
 <div style="display: inline_block, padding: 10px " ><br>
 
