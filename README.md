@@ -1,4 +1,4 @@
-# Olá! Prazer, Alisson Aguiar! 🤙
+# Olá! Prazer, Alisson Aguiar! 
 
 ## Sou Front-End Developer e estudante de Engenharia de Software , apaixonado por tecnologias e seus desafios para transformar, inovar e facilitar a vida dos usuários. 🚀🛰️🪐
 <br>
