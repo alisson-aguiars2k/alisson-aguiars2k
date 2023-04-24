@@ -29,7 +29,7 @@
 
 <br>
 
-☑️ - [Test Registration - TypeScript || Rect-JS](https://react-js-test-registration.netlify.app/) 🔗
+☑️ - [Hook form + zod - TypeScript || Rect-JS](https://github.com/alisson-aguiars2k/hook-form-zod) 🔗
 
 <br>
 
