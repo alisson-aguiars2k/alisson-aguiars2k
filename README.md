@@ -19,8 +19,9 @@
 
 ## Últimos projetos desenvolvidos ;
 
-
 <br>
+
+☑️ - [Hook form + zod - TypeScript || Rect-JS](https://github.com/alisson-aguiars2k/hook-form-zod) 🔗
 
 <div>
 <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" heigth="30" width="40"alt="Typescript">
@@ -29,9 +30,7 @@
 
 <br>
 
-☑️ - [Hook form + zod - TypeScript || Rect-JS](https://github.com/alisson-aguiars2k/hook-form-zod) 🔗
-
-<br>
+☑️ - [Project Comfy Sloth - JavaScript || React-js](https://react-js-comfy-sloth.netlify.app/) 🔗
 
 <div><img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
 <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
@@ -39,18 +38,12 @@
 
 <br>
 
-☑️ - [Project Comfy Sloth - JavaScript || React-js](https://react-js-comfy-sloth.netlify.app/) 🔗
-
-<br>
-
-<div><img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" heigth="30" width="40"alt="html5">
-<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" heigth="30" width="40"alt="css3">
-<img  align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" heigth="30" width="40"alt="Javascript">
+☑️ - [APIs escaláveis com SOLID + TDD - Node.js](https://github.com/alisson-aguiars2k/node-apis-escalaveis-solid-tdd) 🔗
+ 
+ <div>
+<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth="30" width="40"alt="node.js">
 </div>
-
-<br>
-
- ☑️ - [Project Comfy Store - Javascript Vanilla](https://alisson-aguiars2k.github.io/comfy-store/) 🔗
+ 
 
 <br>
 
