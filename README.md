@@ -1,6 +1,6 @@
 # Olá! Prazer, Alisson Aguiar! 
 
-## Sou Front-End Developer e estudante de Engenharia de Software , apaixonado por tecnologias e seus desafios para transformar, inovar e facilitar a vida dos usuários. 🚀🛰️🪐
+## Sou Front-End Developer e estudante de Engenharia de Software , apaixonado por tecnologias e seus desafios para transformar, inovar e facilitar a vida dos usuários, Atualmente estou a procura de um Estágio | Júnior. 🚀🛰️🪐
 <br>
 
 
