@@ -42,6 +42,8 @@
  
  <div>
 <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth="30" width="40"alt="node.js">
+ <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  heigth="30" width="40"alt="TypeScript">
+    <img  align="center" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg heigth="30" width="40"alt="Jest">
 </div>
  
 
