@@ -1,6 +1,6 @@
 # Olá! Prazer, Alisson Aguiar! 
 
-## Sou Front-End Developer e estudante de Engenharia de Software , apaixonado por tecnologias e seus desafios para transformar, inovar e facilitar a vida dos usuários, Atualmente estou a procura de um Estágio | Júnior. 🚀🛰️🪐
+## Sou Front-End Developer e estudante de Engenharia de Software , apaixonado por tecnologias e seus desafios para transformar, inovar e facilitar a vida dos usuários. 🚀🛰️🪐
 <br>
 
 
@@ -41,8 +41,8 @@
 ☑️ - [APIs escaláveis com SOLID + TDD - Node.js](https://github.com/alisson-aguiars2k/node-apis-escalaveis-solid-tdd) 🔗
  
  <div>
-<img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth="30" width="40"alt="node.js">
- <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  heigth="30" width="40"alt="TypeScript">
+    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" heigth="30" width="40"alt="node.js">
+    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  heigth="30" width="40"alt="TypeScript">
     <img  align="center" src=https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg heigth="30" width="40"alt="Jest">
 </div>
  
@@ -51,23 +51,27 @@
 
 ## Tecnologias que estou estudando 💻📚💙🧡
 
-<div style="display: inline_block, padding: 10px " ><br>
+<div style="display: inline_block, padding: 10px " >
 
-### ☑️ Linguagens de Programação
+### Linguagens de Programação
 
+#### ✅ Front-end
 <br>
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" heigth="30" width="40"alt="Javascript">
-    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth="30" width="40"alt="Javascript">
+    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" heigth="30" width="40"alt="typescript">
+
+#### ✅ Back-end
+<br>
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" heigth="30" width="40"alt="Node-js">
- <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth="30" width="40"alt="C">
-    
+    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" heigth="30" width="40"alt="C">
 </div>
 <div style="display: inline_block"><br>
 
-### ☑️ Frameworks
+#### ✅ Frameworks
 
 <br>
-    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40"alt="React">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" heigth="30" width="40" alt="Vue.js">
+    <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" heigth="30" width="40" alt="React">
     <img  align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" heigth="30" width="40"alt="express">
 </div>
 
